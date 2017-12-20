@@ -1,0 +1,6 @@
+.idea
+target
+*.log
+*.javac
+src/main/scala/com/scrapy4s/work
+.history
